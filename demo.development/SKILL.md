@@ -62,11 +62,7 @@ No auto-fetch on page load - user clicks to test.
 - Never enable nullable reference types
 - Delete unused code, don't comment out
 
-## Documentation
-- Always use context7 MCP tools for library/API documentation
-
 # Important!
 - Whenever I ask you to check what's done according to a plan and implement the rest, NEVER skip stages when checking
 - You must NOT start with the last stage of the plan and assume all the rest was successfully done
 - Whenever you finish implementing a stage of a plan, you must append a notice into the main plan file about that
-- Never add a year when searching for docs
